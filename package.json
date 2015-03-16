@@ -1,0 +1,16 @@
+{
+  "name": "express-ssl-redirect",
+  "version": "0.0.2",
+  "description": "Redirects http users to https",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssl",
+    "tls",
+    "express"
+  ],
+  "author": "Mike MacCana <mike@certsimple.com>",
+  "license": "MIT"
+}
